@@ -1,0 +1,46 @@
+ body{
+    background-color: indianred;
+ }
+ .kitten{
+     background-color: #8B575C;
+     border-radius: 1em;
+     border: 1px solid;
+     padding: 1em;
+     margin: 0.5em;
+     flex: 1;
+ }
+ .cat{
+     
+    background-color: #8B575C;
+    border-radius: 1em;
+    border: 1px solid;
+    padding: 1em;
+    margin: 0.5em;
+    flex: 1;
+ }
+
+ .cat-things{
+     
+    background-color: #8B575C;
+    border-radius: 1em;
+    border: 1px solid;
+    padding: 1em;
+    margin: 0.5em;
+    flex: 1;
+ }
+
+ .cat-personality{
+     
+    background-color: #C98986;
+    border-radius: 1em;
+    border: 1px solid;
+    padding: 1em;
+    margin: 0.5em;
+    flex: 1;
+ }
+
+ @media (min-width:960px){
+     .cats{
+         display: flex;
+     }
+ }
